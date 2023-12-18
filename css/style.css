@@ -47,12 +47,12 @@
 @media only screen and (max-width: 768px) {
 
     .box-area {
-        margin: 0 15px !important;
+        margin: 0 20px !important;
     }
 
     .logo {
         height: 40px;
-        margin-top: -170px;
+        margin-top: -120px;
     }
 
     .info {
