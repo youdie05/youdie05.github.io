@@ -48,6 +48,7 @@
 
     .box-area {
         margin: 0 20px !important;
+        margin-top: 20px !important;
     }
 
     .logo {
@@ -57,13 +58,26 @@
 
     .info {
         text-align: center;
-        font-family: 'Courier Prime', monospace;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .info-judul {
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .info-app {
+        font-size: 14px;
     }
 
     .left-box {
         align-items: center;
         border-bottom: 3px solid #3fb618;
         padding-top: 0 !important;
+    }
+
+    .sub-login {
+        font-size: 14px;
     }
 
     .footer {
